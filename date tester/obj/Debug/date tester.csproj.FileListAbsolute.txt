@@ -1,0 +1,9 @@
+C:\Users\kriss\source\repos\date tester\date tester\bin\Debug\date tester.exe.config
+C:\Users\kriss\source\repos\date tester\date tester\bin\Debug\date tester.exe
+C:\Users\kriss\source\repos\date tester\date tester\bin\Debug\date tester.pdb
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date tester.csprojAssemblyReference.cache
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date_tester.Form1.resources
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date_tester.Properties.Resources.resources
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date tester.csproj.GenerateResource.cache
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date tester.exe
+C:\Users\kriss\source\repos\date tester\date tester\obj\Debug\date tester.pdb
